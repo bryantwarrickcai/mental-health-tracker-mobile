@@ -16,3 +16,5 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 [![Build status](https://build.appcenter.ms/v0.1/apps/3a75acf4-8302-40d6-a14f-e0081b6a4b11/branches/main/badge)](https://appcenter.ms)
+
+[Application download link](https://install.appcenter.ms/orgs/pbp-24/apps/mental-health-tracker/distribution_groups/public/releases/1)
